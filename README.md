@@ -1,7 +1,7 @@
 # Cryptowallet-rs
 
 A BIP39 like way to hot secure all your crypto wallets using multiple
-encryption.
+encryption, currently using 10 layers of AES-256-CBC.
 
 WIP
 
