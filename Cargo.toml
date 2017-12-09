@@ -1,0 +1,9 @@
+[package]
+name = "cryptowallet-rs"
+version = "0.1.0"
+authors = ["Ranadeep Polavarapu <RanadeepPolavarapu@users.noreply.github.com>"]
+
+[dependencies]
+rust-crypto = "^0.2"
+rand = "0.3.18"
+
